@@ -1,3 +1,4 @@
 # javaPasswordGen
-A password generator that outputs a bunch of random characters that will  give you a 1000% secure password.
-Tested on many online password verifying websites and gurantees at least 1 million years to crack your password. (If you use at least level 2 encryption) (Terms and connditions apply)
+A password generator that outputs a bunch of random characters that will  give you a 1secure password.
+The higher the level and length of the password, the harder it will be to crack.
+Passwords with a high level and length usually take about 1000+ years to crack (according to passwordmonster)
